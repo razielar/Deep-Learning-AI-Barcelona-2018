@@ -1,0 +1,4 @@
+# ignore all interactive python checks
+
+*.ipynb_checkpoints
+
