@@ -1,0 +1,5 @@
+1) Work.encoders.
+2) Text.to.sequence. 
+3) Padding.
+4) Lesson.2.
+5) Detect.Sarcasm.  
