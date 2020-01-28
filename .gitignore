@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 *.tar.gz
 cifar-10-batches-py
+trained_model
