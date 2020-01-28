@@ -1,4 +1,5 @@
 # ignore all interactive python checks
 
 .ipynb_checkpoints/
-
+*.tar.gz
+cifar-10-batches-py
